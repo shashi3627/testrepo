@@ -1,2 +1,7 @@
 This is a test file
+<<<<<<< HEAD
 This is a second line
+=======
+This is the second line
+>>>>>>> 5a243579569b03effdabf0dcaa226eaea18e9c40
+yes
